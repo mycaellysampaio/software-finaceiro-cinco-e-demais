@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center
+}
+p{
+    font-family: 'Times New Roman', Times, serif
+}
+body{
+    background-color: hsl(157, 100%, 58%);
+    font-family: 'Times New Roman', Times, serif
+    text-align: center
+}

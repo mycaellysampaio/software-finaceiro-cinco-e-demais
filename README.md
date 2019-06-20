@@ -7,7 +7,7 @@
                   Mycaelly Sampaio;
                   Renata Santos;
                   Sara Ribeiro;
-                  Thaina Rodrigues;
+                  Thaina Rodrigues.
 
 
  - Prontuário: 

@@ -1,12 +1,20 @@
-h1 {
-    color: rgb(0, 0, 0);
-    text-align: center
+html {
+    min-height: 200%;
 }
-p{
-    font-family: 'Times New Roman', Times, serif
+
+body {
+  background-image: linear-gradient(#B8D956, #378221,#008000);
 }
-body{
-    background-color: hsl(157, 100%, 58%);
-    font-family: 'Times New Roman', Times, serif
-    text-align: center
+
+#pagina-login {
+  position: absolute;
+  top: 50%;  
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.formulario-login {
+    position: center;
+    background-color:  #9ACD32	;
+    padding: 20px;
 }

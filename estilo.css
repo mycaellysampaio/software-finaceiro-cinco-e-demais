@@ -18,3 +18,51 @@ body {
     background-color:  #9ACD32	;
     padding: 20px;
 }
+#pagina-gastos{
+  position: absolute;
+  top: 50%;  
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.formulario-gastos {
+    position: center;
+    background-color:  #9ACD32	;
+    padding: 20px;
+}
+#pagina-metas {
+  position: absolute;
+  top: 50%;  
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.formulario-metas {
+    position: center;
+    background-color:  #9ACD32	;
+    padding: 20px;
+}
+#pagina-renda {
+  position: absolute;
+  top: 50%;  
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.formulario-renda {
+    position: center;
+    background-color:  #9ACD32	;
+    padding: 20px;
+}
+#pagina-rendaE  {
+  position: absolute;
+  top: 50%;  
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.formulario-rendaE {
+    position: center;
+    background-color:  #9ACD32	;
+    padding: 20px;
+}
